@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_speakblock",
-    "path":"sprites/spr_speakblock/spr_speakblock.yy",
+    "name":"Mom_Idle",
+    "path":"sprites/Mom_Idle/Mom_Idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

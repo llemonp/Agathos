@@ -10,5 +10,5 @@ direction = 270;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "DownPlayer"
 /// @DnDSaveInfo : "spriteind" "DownPlayer"
-sprite_index = DownPlayer;
+sprite_index = Player_Down;
 image_index += 0;

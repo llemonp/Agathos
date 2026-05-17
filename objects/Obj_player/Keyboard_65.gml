@@ -11,5 +11,5 @@ direction = 180;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "LeftPlayer"
 /// @DnDSaveInfo : "spriteind" "LeftPlayer"
-sprite_index = LeftPlayer;
+sprite_index = Player_Left;
 image_index += .05;

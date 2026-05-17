@@ -9,7 +9,7 @@ direction = 180;
 /// @DnDHash : 1BE89918
 /// @DnDArgument : "imageind" ".05"
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "LeftPlayer"
-/// @DnDSaveInfo : "spriteind" "LeftPlayer"
-sprite_index = LeftPlayer;
+/// @DnDArgument : "spriteind" "Player_Left"
+/// @DnDSaveInfo : "spriteind" "Player_Left"
+sprite_index = Player_Left;
 image_index += .05;

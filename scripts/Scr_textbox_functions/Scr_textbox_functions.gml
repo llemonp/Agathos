@@ -1,5 +1,12 @@
 /// @param text
 
+// repositions text so it doesnt go in a continuous line
+function scr_set_defaults_for_text() {
+	line_break_pos[0, pageNum] = 999;	
+	line_break_num[pageNum] = 0;
+	line_break_offset[pageNum] = 0
+}
+
 function scr_text(_text){
 
 	text[pageNum] = _text;
@@ -9,8 +16,10 @@ function scr_text(_text){
 
 
 function scr_option(_option, _link_id){
-
-
+	option[option_number] = _option;
+	option_link_id[option_number] = _link_id;
+	
+	option_number++;
 
 }
 

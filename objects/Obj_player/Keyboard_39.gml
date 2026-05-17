@@ -11,5 +11,5 @@ direction = 0;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "RightPlayer"
 /// @DnDSaveInfo : "spriteind" "RightPlayer"
-sprite_index = RightPlayer;
+sprite_index = Player_Right;
 image_index += 0.05;

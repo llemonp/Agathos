@@ -38,5 +38,5 @@
     "name":"Sprite7_2",
     "path":"sprites/Sprite7_2/Sprite7_2.yy",
   },
-  "visible":false,
+  "visible":true,
 }

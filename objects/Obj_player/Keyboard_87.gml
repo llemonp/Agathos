@@ -10,5 +10,5 @@ direction = 90;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "UpPlayer"
 /// @DnDSaveInfo : "spriteind" "UpPlayer"
-sprite_index = UpPlayer;
+sprite_index = Player_Up;
 image_index += 0;

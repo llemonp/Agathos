@@ -8,7 +8,7 @@ direction = 90;
 /// @DnDVersion : 1
 /// @DnDHash : 1BE89918
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "UpPlayer"
-/// @DnDSaveInfo : "spriteind" "UpPlayer"
-sprite_index = UpPlayer;
+/// @DnDArgument : "spriteind" "Player_Up"
+/// @DnDSaveInfo : "spriteind" "Player_Up"
+sprite_index = Player_Up;
 image_index += 0;

@@ -16,6 +16,9 @@ pageNum = 0;
 text_length = [];
 text_x_offset = [];
 
+char[0,0] = "";
+char_y[0,0] = "";
+char_x[0,0] = "";
 draw_char = 0;
 text_spd = 1;
 
@@ -25,6 +28,7 @@ accept_key = false;
 // options for text dialogue when you chat with npc's
 option[0] = "";
 option_link_id[0] = -1;
+option_pos = 0;
 option_number = 0;
 
 // animating the textbox
@@ -34,3 +38,7 @@ box_open_spd = 0.08;   // speed of opening
 box_alpha = 0;
 target_y_offset = 0;
 start_y_offset = 20;   // starts slightly lower
+
+// effects
+scr_set_defaults_for_text();
+last_free_space = 0;
