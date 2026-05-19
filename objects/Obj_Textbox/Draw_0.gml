@@ -108,7 +108,7 @@ if (draw_char < text_length[page])
 }
 
 // flip through pages
-if (accept_key)
+if (continue_key)
 {
     if (draw_char == text_length[page])
     {
@@ -134,7 +134,6 @@ if (accept_key)
         draw_char = text_length[page];
     }
 }
-
 
 // draw the textbox
 var _txtb_x = textbox_x + text_x_offset[page];

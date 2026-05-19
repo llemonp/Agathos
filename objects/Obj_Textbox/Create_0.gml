@@ -23,7 +23,9 @@ draw_char = 0;
 text_spd = 1;
 
 setup = false;
-accept_key = false;
+// accept_key = false;
+continue_key = keyboard_check_pressed(vk_space);
+select_key = keyboard_check_pressed(ord("F"));
 
 // options for text dialogue when you chat with npc's
 option[0] = "";

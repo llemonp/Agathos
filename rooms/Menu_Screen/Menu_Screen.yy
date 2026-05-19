@@ -11,6 +11,8 @@
     {"name":"inst_BD6A8B2","path":"rooms/Menu_Screen/Menu_Screen.yy",},
     {"name":"inst_6CA17109","path":"rooms/Menu_Screen/Menu_Screen.yy",},
     {"name":"inst_640EFC21","path":"rooms/Menu_Screen/Menu_Screen.yy",},
+    {"name":"inst_26DAE963","path":"rooms/Menu_Screen/Menu_Screen.yy",},
+    {"name":"inst_3E83F472","path":"rooms/Menu_Screen/Menu_Screen.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,6 +26,8 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Backdrop","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_640EFC21","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_640EFC21","objectId":{"name":"Menu_BackG","path":"objects/Menu_BackG/Menu_BackG.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.7066665,"scaleY":2.8133333,"x":192.0,"y":-74.0,},
+        {"$GMRInstance":"v4","%Name":"inst_26DAE963","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26DAE963","objectId":{"name":"Title","path":"objects/Title/Title.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.309277,"scaleY":1.357444,"x":256.0,"y":-64.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3E83F472","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E83F472","objectId":{"name":"Leaves","path":"objects/Leaves/Leaves.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.063333,"scaleY":2.5699995,"x":4.5776367E-05,"y":0.0,},
       ],"layers":[],"name":"Backdrop","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
