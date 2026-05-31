@@ -1,7 +1,7 @@
 # Agathos
 
 ## Overview
-A 2D pixel art RPG cozy horror video game. The game utilized many interactive elements. As the player progresses through the story, this will affect elements and the people you encounter.
+A 2D pixel art RPG cozy horror video game. The game utilized many interactive elements. As the player progresses through the story, this will affect the environments, events, and character interactions.
 
 ## Project may include:
 - Built game features including UI components such as menu screen 
