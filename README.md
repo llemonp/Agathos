@@ -8,5 +8,3 @@ A 2D pixel art RPG cozy horror video game. The game utilized many interactive el
 - Applied data structures and algorithm to manage game state, scoring, and in-game interactions
 - Implemented core gameplay systems including player movement, collision detection, and object interactions
 - Design and animate custom sprites and backgrounds
-
-This project is functionable but it is currently undergoing some changes at the moment.
